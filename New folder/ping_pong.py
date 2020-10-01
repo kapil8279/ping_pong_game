@@ -1,3 +1,4 @@
+#this is basic game
 import turtle
 from pygame import mixer
 import random
